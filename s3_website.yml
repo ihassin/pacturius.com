@@ -1,0 +1,7 @@
+s3_bucket: pacturius.com
+
+site: _site/
+
+index_document: index.html
+error_document: index.html
+cloudfront_wildcard_invalidation: true
