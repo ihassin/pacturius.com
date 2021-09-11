@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e8fc771-e143-45de-ad8d-311c7f54d43d/deploy-status)](https://app.netlify.com/sites/tender-minsky-2aef13/deploys)
+
 ## Getting Started
 
 ### Prerequisites
